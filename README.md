@@ -42,7 +42,7 @@ Feel free to explore and use the materials as you see fit. If you find this repo
 
 Sudhanshu Kumar is an accomplished data scientist with extensive experience in machine learning and artificial intelligence.
 
-LinkedIn: [Sudhanshu Kumar](https://www.linkedin.com/in/sudhanshukumar/)
+LinkedIn: [Sudhanshu Kumar](https://www.linkedin.com/in/-sudhanshu-kumar?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaeKLjdDvQd6uIeoG5t1Vpw%3D%3D)
 
 ### Krish Naik
 
