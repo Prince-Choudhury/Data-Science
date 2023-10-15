@@ -59,3 +59,12 @@ YouTube: [Krish Naik - YouTube](https://www.youtube.com/user/krishnaik06)
 
  ## Contributing
 If you find any errors or have suggestions for improving the materials in this repository, please feel free to create an issue or submit a pull request.
+
+## Connect with Me
+
+If you have any questions, suggestions, or just want to connect, you can reach me on:
+
+- LinkedIn: [https://www.linkedin.com/in/prince-choudhury26/](https://www.linkedin.com/in/prince-choudhury26?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ04JXZmARFylqCfzvMWx4Q%3D%3D)
+- Email: [choudhuryprince19@gmail.com](mailto:choudhuryprince19@gmail.com)
+
+Happy coding and keep practicing!
