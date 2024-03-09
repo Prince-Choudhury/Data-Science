@@ -1,0 +1,32 @@
+file name - course_details.py
+
+import os, sys
+from os.path import dirname, join, abspath
+
+sys.path.insert(0, abspath(join(dirname(__file__),'..')))
+
+from payment import payment_details
+
+def course():
+    print("This is my course details")
+
+payment_details.payment() 
+
+
+
+
+another file name - payment_details.py
+def payment():
+    print("This is my payment details")
+    
+There are two files course_details and payment_details and we want to import payment_details
+into course_details. So using above code we can perform this task.
+
+Add these four line of code:
+
+import os, sys
+from os.path import dirname, join, abspath
+
+sys.path.insert(0, abspath(join(dirname(__file__),'..')))
+
+from payment import payment_details
